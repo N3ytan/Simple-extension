@@ -1,10 +1,10 @@
 {
-    "name": "Extension",
-    "description": "my first extension for google chrome!",
-    "version": "1.0",
-    "manifest_version": 3,
-    "permissions": ["activeTab", "scripting"],
-    "action": {
-      "default_popup": "index.html"
-    }
+  "name": "Extension",
+  "description": "my first extension for google chrome!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html"
   }
+}
